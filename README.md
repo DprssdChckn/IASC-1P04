@@ -8,4 +8,4 @@ Playtest the game | [here]()
 
 ## Prototype
 
-Play my prototype |[here]()
+Play my prototype |[here](Prototype/the_swordmaster_of_paris.html)

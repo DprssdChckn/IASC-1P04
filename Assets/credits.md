@@ -36,3 +36,12 @@ by  contraption
 
 Licensed under
 Creative Commons (2.0)
+
+---
+
+"Virtuality X.0 (now with more Duck)"
+by Mr_Yesterday
+
+2021 - Licensed under
+Creative Commons
+Attribution Noncommercial (3.0)

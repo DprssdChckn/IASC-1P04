@@ -4,8 +4,8 @@ Welcome to the Site for my Twine Game, created for IASC-1P04 @ BrockU
 
 ## Playtest
 
-Playtest the game | [here](Playtest/playtest)
+Playtest the game |[here](Playtest/playtest)
 
 ## Prototype
 
-Play my prototype | [here](Prototype/the_swordmaster_of_paris.html)
+Play my prototype |[here](Prototype/the_swordmaster_of_paris.html)

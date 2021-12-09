@@ -1,4 +1,4 @@
-# The Swordmaster of Paris by Thomas Berner \
+# The Swordmaster of Paris by Thomas Berner 
 ## IASC 1P04
 The Swordmaster of Paris is a short storytelling game where the player is in the shoes of Pierre, a young swordmaster who's father had just been killed in a duel. Travel through various countries, and fight unique opponants to get revenge for your father. 
 

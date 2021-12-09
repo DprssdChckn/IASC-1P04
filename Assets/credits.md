@@ -56,3 +56,12 @@ Creative Commmons
 Attribution 3.0
 
 ---
+
+"Hare Crishna Street Chanting"
+by Stephan Schutze
+
+Licensed under
+Creative Commmons
+Attribution 3.0
+
+---
